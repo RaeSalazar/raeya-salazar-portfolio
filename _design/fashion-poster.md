@@ -10,7 +10,7 @@ permalink:
 
 The fashion show poster emulates the "Mariposa" butterfly theme by having little butterfly faires create a dress on a model. The design uses the rule of thirds to capture the audience's attention, with a organized grid-like layout of typography hidden inside the model's dress for contrast between the flowing fabric and improve legibility. 
 
-![this is the sticker image](https://raesalazar.github.io{{site.baseurl}}/assets/images/fashion-poster-img.png)
+![this is the fashion poster artwork image](https://raesalazar.github.io{{site.baseurl}}/assets/images/fashion-poster-img.png)
 
 ## Tools & Techniques
 
