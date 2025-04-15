@@ -13,7 +13,7 @@ The work features a singular scene trapped inside another to emulate this point.
 
 All these elements come together to make a striking image that ponders life and how we live in the universe.  This piece is meant to have the viewer ponder, asking the question if their reality is, in fact, real or just a fantasy. 
 
-![this is the sticker image](https://raesalazar.github.io{{site.baseurl}}/assets/images/poem-poster-img.png)
+![this is the poem artwork image](https://raesalazar.github.io{{site.baseurl}}/assets/images/poem-poster-img.png)
 
 ## Tools & Techniques
 
