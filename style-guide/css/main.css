@@ -1,0 +1,165 @@
+@charset "UTF-8";
+
+/* main body font - Lato - import from google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+/* main heading font - Oswald - import from google fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+		
+	
+		.oswald {
+		  font-family: "Oswald", sans-serif;
+		  font-optical-sizing: auto;
+		  font-style: normal;
+		}
+
+		.lato-thin {
+		  font-family: "Lato", sans-serif;
+		  font-weight: 100;
+		  font-style: normal;
+}
+
+		.lato-regular {
+		  font-family: "Lato", sans-serif;
+		  font-weight: 400;
+		  font-style: normal;
+}
+
+		.lato-bold {
+		  font-family: "Lato", sans-serif;
+		  font-weight: 700;
+		  font-style: normal;
+}
+
+
+		.lato-regular-italic {
+		  font-family: "Lato", sans-serif;
+		  font-weight: 400;
+		  font-style: italic;
+}
+
+
+main {
+	width: 80%;
+	margin: 0 auto;
+}
+	
+
+section {
+	padding: 20px;
+}
+
+h1 {
+	border-bottom: 3px solid #A83D25;
+	padding-bottom: 10px;
+	padding: 10px;
+}
+
+
+
+
+.header {
+	background-color: #918534;
+	color: white;
+	padding: 10px;
+	text-align: right;
+}
+
+.title{
+	padding: 5px;
+	padding-left: 10px;
+	border-left:2px solid #E9AA40;
+}
+
+/*keeping rounded courner on images*/
+.img-round {
+	border-radius: 8px; 
+	
+}
+
+.inner-container{
+	width:40%;
+	padding:20px;
+	align-content:center;
+	border-radius: 8px;
+	
+}
+
+.outer-container{
+	display: flex;
+}
+
+
+/* Color Palette Classes - 60/30/10 Rule + Black and White */
+.color-split {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px; 
+  width: 100%; 
+  max-width: 600px; 
+  margin: 0 auto; 
+}
+
+.color-boxes {
+  height: 100px;
+  border-radius: 8px;
+  flex-grow: 1;
+  display: flex;
+	}
+
+/* primary color 60% */
+.primary {
+  flex: 6;
+  background-color: #918534;
+  display: flex;
+}
+
+/* secondary color 30% */
+.secondary {
+  flex: 3;
+  background-color: #e9aa40;
+  display: flex;
+}
+
+/* tertiary color 10% */
+.tertiary {
+  flex: 1;
+  background-color: #a83d25;
+	display: flex;
+}
+
+/*classes for colored text*/
+.green {
+	color: #918534;
+	padding:15px;
+	display: flex;
+}
+
+.yellow {
+	color: #e9aa40;
+	padding:15px;
+	display: flex;
+}
+
+.burgundy {
+	color: #a83d25;
+	padding:15px;
+	display: flex;
+}
+
+
+.button-green {
+ background-color:#918534;
+ color: white;
+ border: 2px solid #918534;
+ border-radius: 3px;
+padding: 5px;
+}
+
+.button-outline {
+ background-color:white;
+ color: #e9aa40;
+ border: 2px solid #e9aa40;
+ border-radius: 3px;
+padding: 5px;
+}

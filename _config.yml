@@ -1,0 +1,9 @@
+title: Portfolio
+name: Raeya Salazar
+email: raeyasalazar@gmail.com
+baseurl: "/raeya-salazar-portfolio"
+
+collections:
+design:
+output: true
+permalink: /:collection/:path/
